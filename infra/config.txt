@@ -1,0 +1,5 @@
+# Configuracao publica de exemplo.
+# Copie este arquivo para infra/config.local.txt e ajuste os caminhos locais.
+
+PASTA_IMAGENS=assets/
+ARQUIVO_SAIDA=storage

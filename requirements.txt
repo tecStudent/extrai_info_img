@@ -1,0 +1,5 @@
+easyocr
+numpy
+openpyxl
+pandas
+Pillow
